@@ -26,7 +26,7 @@ export default function Home() {
       </header>
       <main className="mt-8">
         <h1 className="font-medium text-base">Nothing Factory</h1>
-        <p className="opacity-60">just a few builders makin' somthing out of nothing!</p>
+        <p className="opacity-60">just a few builders makin somthing out of nothing!</p>
 
         <ThemeSwitcher className="fixed bottom-4 left-4" />
       </main>
