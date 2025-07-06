@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   description: "Nothing Factory is a creative collective of builders & makers imagining audacious digital experiences and products!",
   openGraph: {
     title: "Nothing Factory",
-    description: "Creative collective of builders, makers, and innovators crafting digital experiences and products.",
+    description: "Creative collective of builders & makers imagining audacious digital experiences and products!",
     url: "https://nothingfactory.xyz",
     siteName: "Nothing Factory",
     images: [
@@ -15,7 +15,7 @@ export const metadata: Metadata = {
         url: "/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "Nothing Factory - A Tiny Band of Builders",
+        alt: "Nothing Factory - those who ship!",
       },
     ],
     locale: "en_US",
